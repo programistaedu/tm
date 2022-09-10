@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
+## Program nauczania programisty
 
 _yay_
 
