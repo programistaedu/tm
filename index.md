@@ -10,8 +10,7 @@ Odstępy
 Pomiędzy akapitami powinny być odstępy. Zalecamy dołączenie README lub pliku z informacjami o Twoim projekcie.
 
 # Nagłówek 1
-
-To jest zwykły akapit następujący po nagłówku. GitHub to platforma do hostingu kodu do kontroli wersji i współpracy. Pozwala Tobie i innym pracować razem nad projektami z dowolnego miejsca.
+Proszę zainstalować google translate
 
 ## Nagłówek 2
 
