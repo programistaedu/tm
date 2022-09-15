@@ -39,24 +39,18 @@ end
 
 #### nagłówek 4
 
-*   To jest nieuporządkowana lista następująca po nagłówku
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Zainstaluj dodatek do przeglądarki 
+*   [Link do rozszerzenia translate]([Link to another page](./another-page.html).
+![Branching](https://farm66.staticflickr.com/65535/52360018706_c98cc782a5_b.jpg)
 
+### Obraz translatora google
+
+![Branching](https://farm66.staticflickr.com/65535/52360018706_c98cc782a5_b.jpg)
 ##### Header 5
 
 1. To jest nieuporządkowana lista następująca po nagłówku
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| kolumna       | kolumna 2          | trzy |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+2.  To jest nieuporządkowana lista następująca po nagłówku
+3.  en -> This is an ordered list following a header.
 
 
 ### Podkreślenie
@@ -92,6 +86,16 @@ end
   - level 2 item
   - level 2 item
 - level 1 item
+- 
+-###### Przykład tabeli (n6)
+
+| kolumna       | kolumna 2          | trzy |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
 
 ### Small image
 
