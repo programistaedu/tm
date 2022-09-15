@@ -55,12 +55,21 @@ end
 
 * * *
 
-### Lista zagnieżdżona:
+### Tworzenie i administrowanie stronami i aplikacjami internetowymi oraz bazami danych
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+*(ru) Пожалуйста, купите руководства INF 03 и INF 04 Квалификация INF.03**
+*(pl)Proszę kupić podręczniki INF 03 i INF 04
+Kwalifikacja INF.03
+*(en) Please buy manuals INF 03 and INF 04 Qualification INF.03
+
+## Tworzenie i administrowanie stronami i aplikacjami internetowymi oraz bazami danych
+![Branching](https://www.wsip.pl/oferta/wydawnictwa-zawodowe/elektroniczna-informatyczna-i-elektryczna/technik-programista/#oferta-tworzenie-stron-i-aplikacji-internetowych-oraz-baz-danych-i-administrowanie-nimi-czesc-1-2)
+https://www.wsip.pl/oferta/wydawnictwa-zawodowe/elektroniczna-informatyczna-i-elektryczna/technik-programista/#oferta-tworzenie-stron-i-aplikacji-internetowych-oraz-baz-danych-i-administrowanie-nimi-czesc-1-2
+
+Ocena za aktywność dla posiadaczy WSiP 
+Very good rating for the WSiP manual 
+Очень хорошая оценка для руководства WSiP 
++++ Posiadacze Helion zostawiają zakupiony podręcznik +++
 
 ### And a nested list:
 
