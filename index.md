@@ -36,16 +36,12 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-
 #### nagłówek 4
 
 *   Zainstaluj dodatek do przeglądarki 
 *   [Link do rozszerzenia translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb).
 ![Branching](https://farm66.staticflickr.com/65535/52360018706_c98cc782a5_b.jpg)
 
-### Obraz translatora google
-
-![Branching](https://farm66.staticflickr.com/65535/52360018706_c98cc782a5_b.jpg)
 ##### Header 5
 
 1. To jest nieuporządkowana lista następująca po nagłówku
@@ -104,7 +100,6 @@ end
 ### Large image
 
 ![Branching](https://farm66.staticflickr.com/65535/52359137062_14e434a18e_b.jpg)
-
 
 ### Definition lists can be used with HTML syntax.
 
