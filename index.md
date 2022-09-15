@@ -99,7 +99,7 @@ end
 
 ### Large image
 
-![Branching](https://farm66.staticflickr.com/65535/52360427770_fa9d768e6c_b.jpg)
+![Branching](https://farm66.staticflickr.com/65535/52360018706_c98cc782a5_b.jpg)
 
 
 ### Definition lists can be used with HTML syntax.
