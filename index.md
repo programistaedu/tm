@@ -5,7 +5,6 @@ layout: default
 Text can be **pogrubiony**, _curyswa_, lub ~~przekreślony~~.
 
 [Link to another page](./another-page.html).
-
 Odstępy
 
 Pomiędzy akapitami powinny być odstępy. Zalecamy dołączenie README lub pliku z informacjami o Twoim projekcie.
@@ -48,7 +47,6 @@ end
 2.  To jest nieuporządkowana lista następująca po nagłówku
 3.  en -> This is an ordered list following a header.
 
-
 ### Podkreślenie
 
 * * *
@@ -60,13 +58,6 @@ end
 *   Item baz
 *   Item zip
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
 ### And a nested list:
 
 - level 1 item
@@ -74,10 +65,6 @@ end
   - level 2 item
     - level 3 item
     - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
 - level 1 item
   - level 2 item
   - level 2 item
@@ -94,7 +81,6 @@ end
 
 
 ### Small image
-
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Large image
