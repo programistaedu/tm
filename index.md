@@ -11,7 +11,10 @@ Odstępy
 Pomiędzy akapitami powinny być odstępy. Zalecamy dołączenie README lub pliku z informacjami o Twoim projekcie.
 
 # Zadanie
-Proszę zainstalować google translate
+*Proszę zainstalować google translate
+*Przyrysuj schemat blokowy Nr 2
+![Branching](https://farm66.staticflickr.com/65535/52360422913_91aa35649f_b.jpg)
+
 
 ## Przykład cytatu tekstu
 
