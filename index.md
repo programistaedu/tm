@@ -9,16 +9,17 @@ Odstępy
 
 Pomiędzy akapitami powinny być odstępy. Zalecamy dołączenie README lub pliku z informacjami o Twoim projekcie.
 
-# Nagłówek 1
+# Zadanie
 Proszę zainstalować google translate
 
-## Nagłówek 2
+## Przykład cytatu tekstu
 
 > To jest cytat blokowy następujący po nagłówku
 >
 > Kiedy coś jest wystarczająco ważne, robisz to, nawet jeśli szanse nie są na Twoją korzyść
 > 
-### Nagłówek 3
+### Translate
+poniżej przykład umieszczenia kodu programistycznego.
 
 ```js
 // Javascript code with syntax highlighting.
@@ -34,7 +35,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-#### nagłówek 4
+#### Translacja tekstu.
 
 *   Zainstaluj dodatek do przeglądarki 
 *   [Link do rozszerzenia translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb).
@@ -77,7 +78,6 @@ end
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
-
 
 ### Small image
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
