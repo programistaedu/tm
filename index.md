@@ -40,7 +40,7 @@ end
 #### nagłówek 4
 
 *   Zainstaluj dodatek do przeglądarki 
-*   [Link do rozszerzenia translate]([Link to another page](./another-page.html).
+*   [Link do rozszerzenia translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb).
 ![Branching](https://farm66.staticflickr.com/65535/52360018706_c98cc782a5_b.jpg)
 
 ### Obraz translatora google
