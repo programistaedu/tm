@@ -5,7 +5,7 @@ layout: default
 
 Text can be **pogrubiony**, _curyswa_, lub ~~przekreślony~~.
 
-[Link to another page](./another-page.html).
+### [Strona z programem nauczania](./another-page.html).
 Odstępy
 
 Pomiędzy akapitami powinny być odstępy. Zalecamy dołączenie README lub pliku z informacjami o Twoim projekcie.
@@ -75,7 +75,7 @@ Very good rating for the WSiP manual
 Очень хорошая оценка для руководства WSiP 
 +++ Posiadacze Helion zostawiają zakupiony podręcznik +++
 
-### And a nested list:
+### Tak tworzymy kolejne poziomy wpisów:
 
 - level 1 item
   - level 2 item
@@ -87,7 +87,7 @@ Very good rating for the WSiP manual
   - level 2 item
 - level 1 item
 - 
--###### Przykład tabeli (n6)
+###### Przykład tabeli (n6)
 
 | kolumna       | kolumna 2          | trzy |
 |:-------------|:------------------|:------|
@@ -96,14 +96,13 @@ Very good rating for the WSiP manual
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### Small image
+### Mały obrazek
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
-
+### Duzy obrzek
 ![Branching](https://farm66.staticflickr.com/65535/52359137062_14e434a18e_b.jpg)
 
-### Definition lists can be used with HTML syntax.
+### Listy definicji mogą być używane ze składnią HTML.
 
 <dl>
 <dt>Name</dt>
