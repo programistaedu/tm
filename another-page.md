@@ -1,10 +1,10 @@
 ---
 layout: default
-[wracaj](./)
+## [wracaj](./)
 ---
 
 ## Program nauczania programisty
 
 _yay_
 
-[wracaj](./)
+## [wracaj](./)
