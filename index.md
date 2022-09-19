@@ -1,4 +1,4 @@
-# ! przykładowa strona statyczna Jeckyll w języku Ruby
+# ! przykładowa strona statyczna Jeckyll w języku Ruby.
 ---
 layout: default
 ---
