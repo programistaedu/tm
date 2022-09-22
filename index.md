@@ -59,9 +59,8 @@ end
 
 
 ![Octocat](https://www.wsip.pl/upload/2020/04/1613I5_okladka_.png)
-* (ru) Пожалуйста, купите руководства INF 03 и INF 04 Квалификация INF.03
-* (pl)Proszę kupić podręczniki INF 03 i INF 04
-Kwalifikacja INF.03
+* (ue) Придбайте посібники INF 03 cz.2 і INF 04 cz.2
+* (pl)Proszę kupić podręczniki INF 03 cz.2 i INF 04 cz.2 
 * (en) Please buy manuals INF 03 and INF 04 Qualification INF.03
 
 ![Octocat](https://www.wsip.pl/upload/2020/04/1613K7.jpg)
