@@ -1,27 +1,23 @@
 # ! przykładowa strona statyczna Jeckyll w języku Ruby.
----
-layout: default
----
 
 Text can be **pogrubiony**, _curyswa_, lub ~~przekreślony~~.
 
 ### [Strona z programem nauczania](./another-page.html).
 Odstępy
 
-Pomiędzy akapitami powinny być odstępy. Zalecamy dołączenie README lub pliku z informacjami o Twoim projekcie.
-
 # Zadanie
 1. Zainstaluj rozszerzenie google translate https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en
 2. Przyrysuj schemat blokowy Nr 2
 ![Branching](https://farm66.staticflickr.com/65535/52360422913_91aa35649f_b.jpg)
-
 
 ## Przykład cytatu tekstu
 
 > To jest cytat blokowy następujący po nagłówku
 >
 > Kiedy coś jest wystarczająco ważne, robisz to, nawet jeśli szanse nie są na Twoją korzyść
-> 
+
+![Octocat](https://www.flaticon.com/free-icon/ukraine_3373317)
+
 ### Translate
 poniżej przykład umieszczenia kodu programistycznego.
 
@@ -48,8 +44,8 @@ end
 ##### Header 5
 
 1. To jest nieuporządkowana lista następująca po nagłówku
-2.  To jest nieuporządkowana lista następująca po nagłówku
-3.  en -> This is an ordered list following a header.
+2. (ue) Це невпорядкований список, який слідує за заголовком
+3. en -> This is an ordered list following a header.
 
 ### Podkreślenie
 
