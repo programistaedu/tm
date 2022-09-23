@@ -8,7 +8,6 @@ Odstępy
 # Zadanie
 1. Zainstaluj rozszerzenie google translate https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en
 2. Przyrysuj schemat blokowy Nr 2
-![Branching](https://t3.ftcdn.net/jpg/04/89/09/68/360_F_489096830_Re7sJlmmVKcpyuzrW7QwEbIQfxgm8QMc.jpg)
 
 ## Przykład cytatu tekstu
 
@@ -16,7 +15,7 @@ Odstępy
 >
 > Kiedy coś jest wystarczająco ważne, robisz to, nawet jeśli szanse nie są na Twoją korzyść
 
-![Octocat](https://abs-0.twimg.com/emoji/v2/svg/1f1fa-1f1e6.svg)
+![Octocat]((https://t3.ftcdn.net/jpg/04/89/09/68/360_F_489096830_Re7sJlmmVKcpyuzrW7QwEbIQfxgm8QMc.jpg)
 
 ### Translate
 poniżej przykład umieszczenia kodu programistycznego.
