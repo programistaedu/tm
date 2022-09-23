@@ -15,8 +15,6 @@ Odstępy
 >
 > Kiedy coś jest wystarczająco ważne, robisz to, nawet jeśli szanse nie są na Twoją korzyść
 
-![Octocat](https://t3.ftcdn.net/jpg/04/89/09/68/360_F_489096830_Re7sJlmmVKcpyuzrW7QwEbIQfxgm8QMc.jpg)
-
 ### Translate
 poniżej przykład umieszczenia kodu programistycznego.
 
@@ -92,6 +90,8 @@ Very good rating for the WSiP manual
 
 ### Mały obrazek
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+![Octocat](https://t3.ftcdn.net/jpg/04/89/09/68/360_F_489096830_Re7sJlmmVKcpyuzrW7QwEbIQfxgm8QMc.jpg)
 
 ### Duzy obrzek
 ![Branching](https://farm66.staticflickr.com/65535/52359137062_14e434a18e_b.jpg)
