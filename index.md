@@ -8,7 +8,7 @@ Odstępy
 # Zadanie
 1. Zainstaluj rozszerzenie google translate https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en
 2. Przyrysuj schemat blokowy Nr 2
-![Branching](https://farm66.staticflickr.com/65535/52360422913_91aa35649f_b.jpg)
+![Branching](https://t3.ftcdn.net/jpg/04/89/09/68/360_F_489096830_Re7sJlmmVKcpyuzrW7QwEbIQfxgm8QMc.jpg)
 
 ## Przykład cytatu tekstu
 
