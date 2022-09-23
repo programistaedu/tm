@@ -15,7 +15,7 @@ Odstępy
 >
 > Kiedy coś jest wystarczająco ważne, robisz to, nawet jeśli szanse nie są na Twoją korzyść
 
-![Octocat]((https://t3.ftcdn.net/jpg/04/89/09/68/360_F_489096830_Re7sJlmmVKcpyuzrW7QwEbIQfxgm8QMc.jpg)
+![Octocat](https://t3.ftcdn.net/jpg/04/89/09/68/360_F_489096830_Re7sJlmmVKcpyuzrW7QwEbIQfxgm8QMc.jpg)
 
 ### Translate
 poniżej przykład umieszczenia kodu programistycznego.
