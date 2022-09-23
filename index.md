@@ -13,7 +13,7 @@ Odstępy
 
 > To jest cytat blokowy następujący po nagłówku
 >
-> Kiedy coś jest wystarczająco ważne, robisz to, nawet jeśli szanse nie są na Twoją korzyść
+> glory to Ukraine
 
 ### Translate
 poniżej przykład umieszczenia kodu programistycznego.
@@ -34,7 +34,7 @@ end
 ```
 #### Translacja tekstu.
 
-*   Zainstaluj dodatek do przeglądarki 
+*   Zainstaluj dodatek do przeglądarki 🇺🇦 
 *   [Link do rozszerzenia translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb).
 ![Branching](https://farm66.staticflickr.com/65535/52360018706_c98cc782a5_b.jpg)
 
@@ -91,8 +91,7 @@ Very good rating for the WSiP manual
 ### Mały obrazek
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-![Octocat](https://t3.ftcdn.net/jpg/04/89/09/68/360_F_489096830_Re7sJlmmVKcpyuzrW7QwEbIQfxgm8QMc.jpg)
-
+![Octocat] 🇺🇦
 ### Duzy obrzek
 ![Branching](https://farm66.staticflickr.com/65535/52359137062_14e434a18e_b.jpg)
 
