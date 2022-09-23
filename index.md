@@ -96,7 +96,7 @@ Very good rating for the WSiP manual
 ### Duzy obrzek
 ![Branching](https://farm66.staticflickr.com/65535/52359137062_14e434a18e_b.jpg)
 
-### Listy definicji mogą być używane ze składnią HTML.
+### Listy definicji mogą być używane ze składnią HTML..
 
 <dl>
 <dt>Name</dt>
