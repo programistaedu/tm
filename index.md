@@ -91,7 +91,7 @@ Very good rating for the WSiP manual
 ### Mały obrazek
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-![Octocat] 🇺🇦
+ 🇺🇦
 ### Duzy obrzek
 ![Branching](https://farm66.staticflickr.com/65535/52359137062_14e434a18e_b.jpg)
 
