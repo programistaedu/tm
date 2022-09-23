@@ -16,7 +16,7 @@ Odstępy
 >
 > Kiedy coś jest wystarczająco ważne, robisz to, nawet jeśli szanse nie są na Twoją korzyść
 
-![Octocat](https://www.flaticon.com/free-icon/ukraine_3373317)
+![Octocat](https://abs-0.twimg.com/emoji/v2/svg/1f1fa-1f1e6.svg)
 
 ### Translate
 poniżej przykład umieszczenia kodu programistycznego.
